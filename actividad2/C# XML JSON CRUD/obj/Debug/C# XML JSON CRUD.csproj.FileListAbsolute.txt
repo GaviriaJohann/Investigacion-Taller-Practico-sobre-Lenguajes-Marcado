@@ -1,0 +1,12 @@
+C:\Users\johan\source\repos\C# XML JSON CRUD\bin\Debug\C# XML JSON CRUD.exe.config
+C:\Users\johan\source\repos\C# XML JSON CRUD\bin\Debug\C# XML JSON CRUD.exe
+C:\Users\johan\source\repos\C# XML JSON CRUD\bin\Debug\C# XML JSON CRUD.pdb
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C# XML JSON CRUD.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C__XML_JSON_CRUD.FrmInicio.resources
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C__XML_JSON_CRUD.FrmJson.resources
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C__XML_JSON_CRUD.FrmXml.resources
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C__XML_JSON_CRUD.Properties.Resources.resources
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C# XML JSON CRUD.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C# XML JSON CRUD.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C# XML JSON CRUD.exe
+C:\Users\johan\source\repos\C# XML JSON CRUD\obj\Debug\C# XML JSON CRUD.pdb
