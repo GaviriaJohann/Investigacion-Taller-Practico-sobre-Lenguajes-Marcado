@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Empleados>
+	<Empleado>
+		<IdEmpleado>1</IdEmpleado>
+		<strNombre>Juan Pérez</strNombre>
+		<NumDocumento>1234567890</NumDocumento>
+		<StrDireccion>Calle Ficticia 123</StrDireccion>
+		<StrTelefono>555-1234</StrTelefono>
+		<StrEmail>juanperez@email.com</StrEmail>
+		<IdRolEmpleado>2</IdRolEmpleado>
+		<DtmIngreso>2020-01-15 08:30:00</DtmIngreso>
+		<DtmRetiro></DtmRetiro>
+		<strDatosAdicionales>Empleado en el departamento de ventas</strDatosAdicionales>
+		<DtmFechaModifica>2024-10-01 12:00:00</DtmFechaModifica>
+		<StrUsuarioModifico>admin</StrUsuarioModifico>
+	</Empleado>
+
+	<Empleado>
+		<IdEmpleado>2</IdEmpleado>
+		<strNombre>Ana López</strNombre>
+		<NumDocumento>9876543210</NumDocumento>
+		<StrDireccion>Avenida Principal 456</StrDireccion>
+		<StrTelefono>555-5678</StrTelefono>
+		<StrEmail>analopez@email.com</StrEmail>
+		<IdRolEmpleado>3</IdRolEmpleado>
+		<DtmIngreso>2019-03-01 09:00:00</DtmIngreso>
+		<DtmRetiro></DtmRetiro>
+		<strDatosAdicionales>Encargada de la administración</strDatosAdicionales>
+		<DtmFechaModifica>2024-09-25 15:30:00</DtmFechaModifica>
+		<StrUsuarioModifico>admin</StrUsuarioModifico>
+	</Empleado>
+</Empleados>
