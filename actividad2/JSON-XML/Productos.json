@@ -1,0 +1,30 @@
+{
+    "productos": [
+        {
+            "IdProducto": 101,
+            "StrNombre": "Laptop Dell XPS 13",
+            "StrCodigo": "LAP-DEL-XPS13",
+            "NumPrecioCompra": 800.50,
+            "NumPrecioVenta": 1200.75,
+            "IdCategoria": 2,
+            "StrDetalle": "Laptop de 13 pulgadas, procesador i7",
+            "strFoto": "laptop_dell_xps13.jpg",
+            "NumStock": 25,
+            "DtmFechaModifica": "2024-10-05T10:00:00",
+            "StrUsuarioModifica": "admin"
+        },
+        {
+            "IdProducto": 102,
+            "StrNombre": "Smartphone Samsung Galaxy S21",
+            "StrCodigo": "SMP-SAM-GAL-S21",
+            "NumPrecioCompra": 600.00,
+            "NumPrecioVenta": 900.50,
+            "IdCategoria": 1,
+            "StrDetalle": "Smartphone con cámara de 64 MP",
+            "strFoto": "galaxy_s21.jpg",
+            "NumStock": 50,
+            "DtmFechaModifica": "2024-10-12T14:30:00",
+            "StrUsuarioModifica": "admin"
+        }
+    ]
+}
